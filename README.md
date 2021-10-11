@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 LOCAL
 =======
 REMOTE
